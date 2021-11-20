@@ -234,5 +234,4 @@ def play():
     menu.mainloop()
   
 # Call main function
-if _name_ == '_main_':
-    play()
+play()
